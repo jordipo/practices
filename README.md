@@ -1,2 +1,2 @@
-# docker-practices
-Repository for practice with docker
+# Practices
+Repository for practices
